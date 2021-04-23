@@ -40,15 +40,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: cv
-  icon_pack: ai
-  link: weizheding_cv.pdf
 - icon: github
   icon_pack: fab
   link: https://github.com/BabysBreathJ
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
+- icon: cv
+  icon_pack: ai
+  link: weizheding_cv.pdf
 
 #- icon: twitter
 #  icon_pack: fab
