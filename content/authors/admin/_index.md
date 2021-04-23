@@ -43,6 +43,12 @@ social:
 - icon: cv
   icon_pack: ai
   link: weizheding_cv.pdf
+- icon: github
+  icon_pack: fab
+  link: https://github.com/BabysBreathJ
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/
 
 #- icon: twitter
 #  icon_pack: fab
