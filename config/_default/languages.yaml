@@ -15,13 +15,7 @@ zh:
   title: 丁尉哲
     params:
     description: 丁尉哲的个人学术主页
-    address:
-    street: 辽宁大学崇山中路 66
-    city: 沈阳
-    region: 辽宁
-    postcode: '110036'
-    country: China
-    country_code: CN
+    address: {street: 辽宁大学崇山中路 66, city: 沈阳, region: 辽宁, postcode: '110036', country: China, country_code: CN}
     directions: 进入溯源楼并上至三楼304
     office_hours: '周一~周五 10:00 to 18:00'
   menu:
