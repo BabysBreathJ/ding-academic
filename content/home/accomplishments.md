@@ -40,14 +40,6 @@ item:
   title: Campus Ambassador
   url: ""
 - certificate_url: 
-  date_end: ""
-  date_start: "2020-02-01"
-  description: ""
-  organization: College English Test Band 6
-  organization_url: 
-  title: 571 / 710
-  url: ""
-- certificate_url: 
   date_end: "2020-03-01"
   date_start: "2019-11-01"
   description: ""
