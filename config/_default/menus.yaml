@@ -19,11 +19,11 @@ main:
   - name: Awards
     url: '#accomplishments'
     weight: 50
-  - name: Contact
-    url: '#contact'
-    weight: 60
   - name: Skills
     url: '#skills'
+    weight: 60
+  - name: Contact
+    url: '#contact'
     weight: 70
   - name: CV
     url: uploads/resume.pdf
