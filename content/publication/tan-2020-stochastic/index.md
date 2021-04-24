@@ -1,8 +1,8 @@
 ---
 title: Eriodictyol as alpha-amylase inhibitors virtual screening, molecular docking, molecular dynamic simulation and spectroscopy
   Models
-date: '2021-08-01'
-publishDate: '2021-10-12T13:36:27.550225Z'
+date: '2020-01-01'
+publishDate: '2020-10-12T13:36:27.550225Z'
 authors:
 - Songchen Tan
 - Itai Leven
