@@ -45,7 +45,7 @@ item:
   description: ""
   organization: College English Test Band 6
   organization_url: 
-  title: 571/710
+  title: 571 / 710
   url: ""
 - certificate_url: 
   date_end: "2020-03-01"
