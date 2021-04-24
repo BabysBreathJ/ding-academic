@@ -73,6 +73,4 @@ experience:
         - Modelling
         - Deploying
 
-design:
-  columns: '2'
 ---
