@@ -62,6 +62,16 @@ experience:
         - Analysing
         - Modelling
         - Deploying
+  - title: Undergraduate Student Researcher
+    company: Xiangyu Cao Group, School of Life Sciences, Liaoning University
+    company_url: http://lifesci.lnu.edu.cn/info/13924/64271.htm
+    location: Shenyang, Liaoning, China
+    date_start: '2020-09-01'
+    date_end: ''
+    description: |2-
+        - Analysing
+        - Modelling
+        - Deploying
 
 design:
   columns: '2'
