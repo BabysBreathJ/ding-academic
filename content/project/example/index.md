@@ -1,6 +1,9 @@
 ---
 title: MDFP (Gromacs and Sklearn)
-summary: using features extracted from molecular dynamic simulation to build molecular dynamic fingerprint.
+summary: Using features extracted from molecular dynamic simulation to build molecular dynamic fingerprint.
+
+title: MDFP (Gromacs and Sklearn)
+summary: Using features extracted from molecular dynamic simulation to build molecular dynamic fingerprint.
 
 # Optional external URL for project (replaces project detail page).
 #external_link: ""
