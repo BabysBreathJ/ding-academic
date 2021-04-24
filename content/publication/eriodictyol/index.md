@@ -13,7 +13,7 @@ authors:
 - Xiangyu Cao*
 publication_types:
 - '2'
-abstract: 'Under Review'
+abstract: ''
 featured: false
 publication: '*International Journal of Biological Macromolecule*'
 #url_pdf: https://doi.org/10.1021/acs.jctc.0c00514
