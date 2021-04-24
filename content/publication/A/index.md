@@ -5,6 +5,8 @@ authors:
 - Weizhe Ding
 - Zhipeng Tang
 - Kongyu Chi
+- Jianli Liu*
+- Xiangyu Cao*
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
