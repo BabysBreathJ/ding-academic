@@ -1,5 +1,5 @@
 ---
-title: Prediction of potential lncRNA-miRNA interactions through a Network similarity integration method
+title: Eriodictyol as α-amylase inhibitors: virtual screening, molecular docking, molecular dynamic simulation and spectroscopy
   Models
 date: '2021-04-01'
 publishDate: '2021-04-01T13:36:27.550225Z'
