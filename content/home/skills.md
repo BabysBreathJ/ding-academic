@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 571/710
-#  icon: r-project
+  icon: CET
   icon_pack: fab
   name: CET 6
 - description: 100%
