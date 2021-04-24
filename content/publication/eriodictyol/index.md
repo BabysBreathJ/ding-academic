@@ -1,20 +1,20 @@
 ---
-title: Prediction of potential lncRNA-miRNA interactions through a Network similarity integration method
+title: Eriodictyol as α-amylase inhibitors: virtual screening, molecular docking, molecular dynamic simulation and spectroscopy
   Models
 date: '2021'
 publishDate: '2021T13:36:27.550225Z'
 authors:
 - Jingjing Zhang^1
-- Yang Nan
-- Shujuan Wu
-- Di Cui
-- Li Zhang*
-- Hongsheng Liu*
+- Weizhe Ding^1
+- Zhipeng Tang
+- Yuchi Kong
+- Jianli Liu*
+- Xiangyu Cao*
 publication_types:
 - '2'
-abstract: 'In press'
+abstract: 'Under Review'
 featured: false
-publication: '*Journal of Mudanjiang Medical University*'
+publication: '*n International Journal of Biological Macromolecule*'
 #url_pdf: https://doi.org/10.1021/acs.jctc.0c00514
 #doi: 10.1021/acs.jctc.0c00514
 ---
