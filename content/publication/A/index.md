@@ -1,11 +1,13 @@
 ---
 title: "Eriodictyol as alpha-amylase inhibitors virtual screening, molecular docking, molecular dynamic simulation and spectroscopy"
 authors:
-- admin
-- Robert Ford
+- Jingjing Zhang
+- Weizhe Ding
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
+- Zhipeng Tang
+- Kongyu Chi
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
