@@ -25,15 +25,13 @@ experience:
   - title: Visting Student
     company: Guohui Li Group, State Key Laboratory of Molecular Reaction Dynamics
     company_url: http://www.sklmr.dicp.ac.cn/
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Dalian, Liaoning, China
+    date_start: '2021-12-24'
+    date_end: '2021-03-07'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        - Analysing
+        - Modelling
+        - Deploying
         
   - title: Professor of Semiconductor Physics
     company: University X
