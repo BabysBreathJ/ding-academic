@@ -3,12 +3,11 @@ title: "Eriodictyol as alpha-amylase inhibitors virtual screening, molecular doc
 authors:
 - Jingjing Zhang
 - Weizhe Ding
+- Zhipeng Tang
+- Kongyu Chi
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-authors:
-- Zhipeng Tang
-- Kongyu Chi
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
