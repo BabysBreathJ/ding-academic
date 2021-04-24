@@ -6,6 +6,7 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
+authors:
 - Zhipeng Tang
 - Kongyu Chi
 date: "2015-09-01T00:00:00Z"
