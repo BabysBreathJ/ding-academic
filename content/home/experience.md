@@ -72,5 +72,14 @@ experience:
         - Analysing
         - Modelling
         - Deploying
-
+  - title: Undergraduate Student Researcher
+    company: Hongsheng Liu Group, School of Pharmaceutical Sciences, Liaoning University
+    company_url: http://yxy.lnu.edu.cn/info/13928/76440.htm
+    location: Shenyang, Liaoning, China
+    date_start: '2020-09-01'
+    date_end: ''
+    description: |2-
+        - Analysing
+        - Modelling
+        - Deploying
 ---
