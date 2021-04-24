@@ -14,7 +14,7 @@ publication_types:
 - '2'
 abstract: 'Under Review'
 featured: false
-publication: '*n International Journal of Biological Macromolecule*'
+publication: '*International Journal of Biological Macromolecule*'
 #url_pdf: https://doi.org/10.1021/acs.jctc.0c00514
 #doi: 10.1021/acs.jctc.0c00514
 ---
