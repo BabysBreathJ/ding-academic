@@ -5,7 +5,6 @@ date: '2020-01-01'
 publishDate: '2021-04-01T13:36:27.550225Z'
 authors:
 - Weizhe Ding
-- et al
 publication_types: In press
 - '2'
 abstract: ''
