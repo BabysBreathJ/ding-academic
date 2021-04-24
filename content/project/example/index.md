@@ -7,11 +7,9 @@ date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 #external_link: ""
-
 #image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
-
+#  caption: Photo by rawpixel on Unsplash
+#  focal_point: Smart
 #links:
 #- icon: twitter
 #  icon_pack: fab
@@ -21,7 +19,6 @@ date: "2016-04-27T00:00:00Z"
 #url_pdf: ""
 #url_slides: ""
 #url_video: ""
-
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
