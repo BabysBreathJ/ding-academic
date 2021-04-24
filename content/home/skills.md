@@ -25,7 +25,7 @@ feature:
   icon_pack: fas
   name: IELTS
 - description: 571/710
-  icon: fa-dog
+  icon: dog
   icon_pack: fas
   name: CET 6
 
