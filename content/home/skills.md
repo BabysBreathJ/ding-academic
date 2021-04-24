@@ -21,13 +21,13 @@ feature:
   icon_pack: 
   name: CET 4
 - description: 6/9
-  icon: IE
-  icon_pack:
-  name: CET 6
-- description: 6/9
+  icon: paw
+  icon_pack: far
+  name: IELTS
+- description: 571/710
   icon: camera-retro
   icon_pack: fas
-  name: IELTS
+  name: CET 6
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
