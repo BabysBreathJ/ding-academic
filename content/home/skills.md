@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: 571/710
   icon: cat
-  icon_pack: custom
+  icon_pack: 
   name: CET 6
 - description: 100%
   icon: chart-line
