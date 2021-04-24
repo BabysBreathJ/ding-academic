@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Visting Student
-    company: Guohui Li Group, State Key Laboratory of Molecular Reaction Dynamics
+    company: Guohui Li Group, State Key Laboratory of Molecular Reaction Dynamics, Dalian Institute of Chemical Physics, Chinese Academy of Sciences
     company_url: http://www.sklmr.dicp.ac.cn/
     location: Dalian, Liaoning, China
     date_start: '2021-12-24'
