@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 571/710
-  icon: cat
+  icon: cet
   icon_pack: 
   name: CET 6
 - description: 100%
