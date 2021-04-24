@@ -1,6 +1,6 @@
 ---
 title: Eriodictyol and Alpha-amylase
-summary: Using virtual screening, molecular docking, molecular dynamic simulation and spectroscopy to discover the inhibiting mechanism between Eriodictyol and Alpha-amylase
+summary: Using virtual screening, molecular docking, molecular dynamic simulation, and spectroscopy to discover the inhibiting mechanism between Eriodictyol and Alpha-amylase.
 
 # Optional external URL for project (replaces project detail page).
 #external_link: ""

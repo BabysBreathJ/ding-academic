@@ -31,6 +31,30 @@ item:
   organization_url: 
   title: Individual Scholarship
   url: ""
+- certificate_url: 
+  date_end: "2021-04-01"
+  date_start: "2020-04-01"
+  description: ""
+  organization: Ernst & Young
+  organization_url: 
+  title: Campus Ambassador
+  url: ""
+- certificate_url: 
+  date_end: "2020-03-01"
+  date_start: "2019-11-01"
+  description: ""
+  organization: KPMG
+  organization_url: 
+  title: Campus Ambassador
+  url: ""
+- certificate_url: 
+  date_end: "2019-03-01"
+  date_start: "2019-01-01"
+  description: ""
+  organization: After graduating from the public library (NPO)
+  organization_url: 
+  title: Best Team Award
+  url: ""
 #- certificate_url: https://www.edx.org
 #  date_end: ""
 #  date_start: "2021-01-01"
