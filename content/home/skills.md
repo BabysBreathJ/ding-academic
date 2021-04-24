@@ -25,7 +25,7 @@ feature:
   icon_pack:
   name: CET 6
 - description: 6/9
-  icon: ielts
+  icon: cat2
   icon_pack:
   name: IELTS
 
