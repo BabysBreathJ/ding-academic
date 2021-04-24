@@ -31,8 +31,7 @@ experience:
     description: |2-
         - Analysing
         - Modelling
-        - Deploying
-        
+        - Deploying        
   - title: Visting Student, Kechuang Project (Founded by CAS)
     company: Xu Lin Group, Key Laboratory of Nutrition, Metabolism and Food Safety, Shanghai Institute of Nutrition and Health, Chinese Academy of Sciences
     company_url: http://www.sinh.cas.cn/rcdw/qtyjzz/201803/t20180327_4986722.html
@@ -42,8 +41,7 @@ experience:
     description: |2-
         - Analysing
         - Modelling
-        - Deploying
-		
+        - Deploying		
   - title: Summer Intern (Founded by Westlake University)
     company: Ju-Sheng ZHENG Group, Key Laboratory of Growth Regulation and Translational Research of Zhejiang Province, Westlake University
     company_url: https://www.wenutrition.cn/
@@ -54,7 +52,6 @@ experience:
         - Analysing
         - Modelling
         - Deploying
-
   - title: Intern
     company: Pathogen Discovery and Big Data Center, Institut Pasteur of Shanghai, CAS
     company_url: https://www.wenutrition.cn/
@@ -65,8 +62,6 @@ experience:
         - Analysing
         - Modelling
         - Deploying
-
-		
 
 design:
   columns: '2'
