@@ -1,9 +1,6 @@
 ---
 title: MDFP (Gromacs and Sklearn)
-summary: An example of using the in-built project page.
-tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+summary: using features extracted from molecular dynamic simulation to build molecular dynamic fingerprint.
 
 # Optional external URL for project (replaces project detail page).
 #external_link: ""
