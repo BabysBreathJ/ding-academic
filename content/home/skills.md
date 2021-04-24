@@ -25,8 +25,8 @@ feature:
   icon_pack:
   name: CET 6
 - description: 6/9
-  icon: cat2
-  icon_pack:
+  icon: camera-retro
+  icon_pack: fas
   name: IELTS
 
 # Uncomment to use emoji icons.
