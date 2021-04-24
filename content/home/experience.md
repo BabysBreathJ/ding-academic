@@ -54,6 +54,17 @@ experience:
         - Analysing
         - Modelling
         - Deploying
+		
+  - title: Intern
+    company: Pathogen Discovery and Big Data Center, Institut Pasteur of Shanghai, Chinese Academy of Sciences
+    company_url: http://www.shanghaipasteur.cas.cn/kyzc2016/kyzc_zzjg2016/swxxxpt2016/zxjj4_2018/
+    location: Shanghai, China
+    date_start: '2020-04-01'
+    date_end: '2021-07-01'
+    description: |2-
+        - Analysing
+        - Modelling
+        - Deploying
 
 design:
   columns: '2'
