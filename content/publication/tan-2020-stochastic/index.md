@@ -13,8 +13,8 @@ publication_types:
 - '2'
 abstract: ''
 featured: false
-publication: '*Journal of Chemical Theory and Computation*'
-url_pdf: https://doi.org/10.1021/acs.jctc.0c00514
-doi: 10.1021/acs.jctc.0c00514
+publication: '*International Journal of Biological and Macromolecule*'
+#url_pdf: https://doi.org/10.1021/acs.jctc.0c00514
+#doi: 10.1021/acs.jctc.0c00514
 ---
 
