@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Eriodictyol as alpha-amylase inhibitors virtual screening, molecular docking, molecular dynamic simulation and spectroscopy"
 authors:
 - admin
 - Robert Ford
