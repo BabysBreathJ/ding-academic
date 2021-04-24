@@ -53,11 +53,11 @@ experience:
         - Modelling
         - Deploying
   - title: Intern
-    company: Pathogen Discovery and Big Data Center, Institut Pasteur of Shanghai, CAS
+    company: Pathogen Discovery and Big Data Center, Institut Pasteur of Shanghai, Chinese Academy of Sciences
     company_url: https://www.wenutrition.cn/
-    location: Hangzhou, Zhengjiang, China
-    date_start: '2020-07-01'
-    date_end: '2021-09-01'
+    location: Shanghai, China
+    date_start: '2020-04-01'
+    date_end: '2020-07-01'
     description: |2-
         - Analysing
         - Modelling
