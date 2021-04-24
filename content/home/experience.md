@@ -25,7 +25,6 @@ experience:
   - title: Visting Student
     company: Guohui Li Group, State Key Laboratory of Molecular Reaction Dynamics
     company_url: http://www.sklmr.dicp.ac.cn/
-    company_logo: org-gc
     location: California
     date_start: '2021-01-01'
     date_end: ''
