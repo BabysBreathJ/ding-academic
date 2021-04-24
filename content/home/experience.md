@@ -43,9 +43,20 @@ experience:
         - Analysing
         - Modelling
         - Deploying
-
+		
   - title: Summer Intern (Founded by Westlake University)
     company: Ju-Sheng ZHENG Group, Key Laboratory of Growth Regulation and Translational Research of Zhejiang Province, Westlake University
+    company_url: https://www.wenutrition.cn/
+    location: Hangzhou, Zhengjiang, China
+    date_start: '2020-07-01'
+    date_end: '2020-08-01'
+    description: |2-
+        - Analysing
+        - Modelling
+        - Deploying
+
+  - title: Intern
+    company: Pathogen Discovery and Big Data Center, Institut Pasteur of Shanghai, CAS
     company_url: https://www.wenutrition.cn/
     location: Hangzhou, Zhengjiang, China
     date_start: '2020-07-01'
@@ -53,7 +64,9 @@ experience:
     description: |2-
         - Analysing
         - Modelling
-        - Deploying		
+        - Deploying
+
+		
 
 design:
   columns: '2'
