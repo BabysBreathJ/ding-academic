@@ -14,7 +14,7 @@ publication_types:
 - '2'
 abstract: 'In press'
 featured: false
-publication: '*Journal of Chemical Theory and Computation*'
+publication: '*Journal of Mudanjiang Medical University*'
 #url_pdf: https://doi.org/10.1021/acs.jctc.0c00514
 #doi: 10.1021/acs.jctc.0c00514
 ---
