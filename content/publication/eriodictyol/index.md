@@ -1,8 +1,12 @@
 ---
-title: "An example journal article"
+title: Eriodictyol as alpha-amylase inhibitors virtual screening, molecular docking, molecular dynamic simulation and spectroscopy
 authors:
-- admin
-- Robert Ford
+- Jingjing Zhang
+- Weizhe Ding
+- Zhipeng Tang
+- Kongyu Chi
+- Jianli Liu*
+- Xiangyu Cao*
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
