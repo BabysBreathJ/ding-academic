@@ -22,8 +22,8 @@ main:
   - name: Contact
     url: '#contact'
     weight: 60
-  - name: Skill
-    url: '#skill'
+  - name: Skills
+    url: '#skills'
     weight: 70
   - name: CV
     url: uploads/resume.pdf
