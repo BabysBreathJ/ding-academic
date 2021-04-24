@@ -22,7 +22,7 @@ feature:
   name: CET 4
 - description: 6/9
   icon: paw
-  icon_pack: far
+  icon_pack: fas
   name: IELTS
 - description: 571/710
   icon: camera-retro
