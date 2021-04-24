@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 130
 
 title: Skills
 subtitle:
@@ -17,9 +17,9 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 571/710
-  icon: r-project
+#  icon: r-project
   icon_pack: fab
-  name: CET6
+  name: CET 6
 - description: 100%
   icon: chart-line
   icon_pack: fas
