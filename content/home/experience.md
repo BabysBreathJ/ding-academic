@@ -33,14 +33,16 @@ experience:
         - Modelling
         - Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Visting Student, Kechuang Project (Founded by CAS)
+    company: Xu Lin Group, Key Laboratory of Nutrition, Metabolism and Food Safety, Shanghai Institute of Nutrition and Health, Chinese Academy of Sciences
+    company_url: http://www.sinh.cas.cn/rcdw/qtyjzz/201803/t20180327_4986722.html
+    location: Shanghai, China
+    date_start: '2020-08-01'
+    date_end: '2021-08-01'
+    description: |2-
+        - Analysing
+        - Modelling
+        - Deploying
 
 design:
   columns: '2'
