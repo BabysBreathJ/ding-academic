@@ -70,8 +70,12 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Weizhe Ding is a senior undergraduate student at Liaoning University. During the past three years, he has obtained an interdisciplinary knowledge base and rich research experience at the intersection of biology, computational science and chemistry. His previous projects include:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+- Molecular Dynamics Fingerprints;
+- The inhibiting mechanism between Eriodictyol and Alpha-amylase;
+- Developing a Network similarity integration method to predict potential lncRNA-miRNA interactions;
+
+Weizhe enjoys communicating and collaborating on academic topics, so feel free to contact him if you find anything interesting where his expertise may be helpful.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
