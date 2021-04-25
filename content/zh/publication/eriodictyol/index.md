@@ -11,8 +11,8 @@ authors:
 - Jianli Liu*
 - Xiangyu Cao*
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "共同第一作者"
+- "共同第一作者"
 publication_types:
 - '2'
 abstract: 'Under Review'
