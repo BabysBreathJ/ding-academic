@@ -1,6 +1,6 @@
 ---
-title: MDFP (Gromacs and Sklearn)
-summary: Using features extracted from molecular dynamic simulation to build molecular dynamic fingerprints.
+title: 分子指纹图谱 (Gromacs and Sklearn)
+summary: 使用从分子动力学模拟轨迹中提取的特征建立分子指纹图谱
 
 # Optional external URL for project (replaces project detail page).
 #external_link: ""
