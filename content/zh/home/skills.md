@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: Skills
+title: 技能
 subtitle:
 
 # Showcase personal skills or business features.
@@ -19,15 +19,15 @@ feature:
 - description: 570/710
   icon: cat
   icon_pack: 
-  name: CET 4
+  name: 大学英语四级
 - description: 6/9
   icon: paw
   icon_pack: fas
-  name: IELTS
+  name: 雅思
 - description: 571/710
   icon: dog
   icon_pack: fas
-  name: CET 6
+  name: 大学英语六级
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
