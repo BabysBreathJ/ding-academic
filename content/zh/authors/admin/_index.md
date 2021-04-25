@@ -17,20 +17,20 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-研究方向:
-- Nutritional Epidemiology
-- Computational Biology
-- Computational Chemistry
+interests:
+- 营养流行病学
+- 计算生物学
+- 计算化学
 
 # Education to show in About widget
 education:
   courses:
-  - course: BSc in Biotechnology
-    institution: Liaoning University
-    year: 2022 (estimated)
-  - course: High School
-    institution: The High School Affiliated To Liaoning Normal University
-    year: 2018
+  - course: 本科（生物技术）
+    institution: 辽宁大学
+    year: 2018 ~ 2022
+  - course: 中学
+    institution: 辽宁师范大学附属中学
+    year: 2012 ~ 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,12 +70,12 @@ email: ""
 highlight_name: false
 ---
 
-Weizhe Ding is a senior undergraduate student at Liaoning University. During the past three years, he has obtained an interdisciplinary knowledge base and rich research experience at the intersection of biology, computational science and chemistry. His previous projects include:
+丁尉哲是辽宁大学生命科学院的三年级本科生。在过去的三年里，他在生物、计算科学和化学的交叉领域获得了跨学科的知识基础和丰富的研究经验。他之前的项目包括:
 
-- Molecular Dynamics Fingerprints;
-- The inhibiting mechanism between Eriodictyol and Alpha-amylase;
-- Developing a Network similarity integration method to predict potential lncRNA-miRNA interactions;
+- 分子动力学指纹图谱
+- 圣草酚抑制阿尔法淀粉酶的机制研究
+- 建立一种预测lncRNA-miRNA相互作用的网络相似性集成方法
 
-Weizhe enjoys communicating and collaborating on academic topics, so feel free to contact him if you find anything interesting where his expertise may be helpful.
+丁尉哲乐于就学术问题与人开展交流与合作，所以如果您认为他的专长可能在您的项目中发挥作用，请联系他
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
