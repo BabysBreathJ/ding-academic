@@ -78,4 +78,4 @@ highlight_name: false
 
 丁尉哲乐于就学术问题与人开展交流与合作，所以如果您认为他的专长可能在您的项目中发挥作用，请联系他
 
-{{< icon name="download" pack="fas" >}} 您可以在丁尉哲的{{< staticref "media/demo_resume.pdf" "newtab" >}}简历{{< /staticref >}}中获取更多关于他的信息。
+{{< icon name="download" pack="fas" >}} 您可以在丁尉哲的{{< staticref "丁尉哲.pdf" "newtab" >}}简历{{< /staticref >}}中获取更多关于他的信息。
