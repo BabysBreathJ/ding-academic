@@ -27,33 +27,33 @@ item:
   date_end: ""
   date_start: "2020-10-14"
   description: ""
-  organization: Liaoning University
+  organization: 辽宁大学
   organization_url: 
-  title: Individual Scholarship
+  title: 单项奖学金
   url: ""
 - certificate_url: 
   date_end: "2021-04-01"
   date_start: "2020-04-01"
   description: ""
-  organization: Ernst & Young
+  organization: 安永（中国）
   organization_url: 
-  title: Campus Ambassador
+  title: 校园大使
   url: ""
 - certificate_url: 
   date_end: "2020-03-01"
   date_start: "2019-11-01"
   description: ""
-  organization: KPMG
+  organization: 毕马威（中国）
   organization_url: 
-  title: Campus Ambassador
+  title: 校园大使
   url: ""
 - certificate_url: 
   date_end: "2019-03-01"
   date_start: "2019-01-01"
   description: ""
-  organization: After graduating from the public library (NPO)
+  organization: 毕业后公益基金会 (NPO)
   organization_url: 
-  title: Best Team Award
+  title: 最佳团队
   url: ""
 #- certificate_url: https://www.edx.org
 #  date_end: ""
