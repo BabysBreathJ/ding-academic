@@ -29,7 +29,7 @@ zh:
     longitude: '123.41158'
   directions: 进入溯源楼并通过楼梯达到三楼304
   office_hours:
-    - '周一-周五 10:00 ~ 18:00'
+    - '周一至周五 10:00 ~ 18:00'
   menu:
     main:
       - name: 简介
