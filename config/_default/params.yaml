@@ -30,8 +30,8 @@ address:
   country: China
   country_code: CN
 coordinates:
-  latitude: '41.840067'
-  longitude: '123.41158'
+  latitude: 41.840067
+  longitude: 123.41158
 directions: Enter Suyuan Building and take the stairs to Office 304 on Floor 3
 office_hours:
   - 'Monday-Friday 10:00 to 18:00'
