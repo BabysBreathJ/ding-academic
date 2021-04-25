@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 170
 
-title: Contact
+title: 联系
 subtitle:
 
 content:
