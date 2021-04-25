@@ -1,6 +1,6 @@
 ---
-title: Eriodictyol and Alpha-amylase
-summary: Using virtual screening, molecular docking, molecular dynamic simulation, and spectroscopy to discover the inhibiting mechanism between Eriodictyol and Alpha-amylase.
+title: 圣草酚与阿尔法淀粉酶
+summary: 使用虚拟筛选，分子对接，分子动力学模拟及光谱学方法探寻圣草酚抑制阿尔法淀粉酶的机制
 
 # Optional external URL for project (replaces project detail page).
 #external_link: ""
