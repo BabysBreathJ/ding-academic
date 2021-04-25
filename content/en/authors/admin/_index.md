@@ -78,4 +78,4 @@ Weizhe Ding is a senior undergraduate student at Liaoning University. During the
 
 Weizhe enjoys communicating and collaborating on academic topics, so feel free to contact him if you find anything interesting where his expertise may be helpful.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
