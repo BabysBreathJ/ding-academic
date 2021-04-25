@@ -15,6 +15,21 @@ zh:
   title: 丁尉哲
   params:
     description: 丁尉哲的个人学术主页
+    email: weizhedingphd@gmail.com
+    phone: (+86) 188 4112 8665
+  address:
+    street: No.66 chongshan Middle Road
+    city: Shenyang
+    region: Liaoning
+    postcode: '110036'
+    country: China
+    country_code: CN
+  coordinates:
+    latitude: '41.840067'
+    longitude: '123.41158'
+  directions: Enter Suyuan Building and take the stairs to Office 304 on Floor 3
+office_hours:
+  - 'Monday-Friday 10:00 to 18:00'
   menu:
     main:
       - name: 简介
