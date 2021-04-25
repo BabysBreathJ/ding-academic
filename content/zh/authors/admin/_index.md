@@ -1,23 +1,23 @@
 ---
 # Display name
-title: Weizhe Ding
+title: 丁尉哲
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Senior Undergraduate Student
+role: 三年级本科生
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Liaoning University
+- name: 辽宁大学
   url: http://www.lnu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
+研究方向:
 - Nutritional Epidemiology
 - Computational Biology
 - Computational Chemistry
