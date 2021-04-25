@@ -10,12 +10,12 @@ headless: true
 weight: 90
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Awards'
+title: '荣誉'
 subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: 2006 年 1 月
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
