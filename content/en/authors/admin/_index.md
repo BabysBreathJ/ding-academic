@@ -48,7 +48,7 @@ social:
   link: https://www.linkedin.com/in/weizhe-ding-a82517165/
 - icon: cv
   icon_pack: ai
-  link: weizheding_cv.pdf
+  link: CV.pdf
 
 #- icon: twitter
 #  icon_pack: fab
