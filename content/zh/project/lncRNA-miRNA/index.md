@@ -1,6 +1,6 @@
 ---
 title: lncRNA-miRNA
-summary: Developing a Network similarity integration method to predict potential lncRNA-miRNA interactions
+summary: 开发一种网络相似性集成方法来预测潜在的lncRNA-miRNA相互作用对
 
 # Optional external URL for project (replaces project detail page).
 #external_link: ""
