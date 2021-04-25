@@ -35,10 +35,10 @@ zh:
       - name: 简介
         url: '#about'
         weight: 10
-      - name: 经历
+      - name: 科研经历
         url: '#experience'
         weight: 20
-      - name: 著作
+      - name: 文章
         url: '#publications'
         weight: 30
       - name: 项目
