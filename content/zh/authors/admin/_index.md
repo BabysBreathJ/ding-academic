@@ -45,7 +45,7 @@ social:
   link: https://github.com/BabysBreathJ
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/weizhe-ding-a82517165/
 - icon: cv
   icon_pack: ai
   link: weizheding_cv.pdf
