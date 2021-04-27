@@ -66,9 +66,9 @@ experience:
     date_start: '2020-09-01'
     date_end: ''
     description: |2-
-        - Completed the subject of natural active product and α-amylase. Through a virtual screening of the main components of Dalbergia odorifera T. Chen, eriodictyol as the best natural active component was obtained, and a molecular docking and molecular dynamics simulation research was performed. In the meantime, the exact mechanism of saccharol inhibiting α-amylase was experimentally confirmed. The paper is expected to be published on International Journal of Biological Macromolecule. 
-        - Participated in the subject on the costane lactone-induced apoptosis mechanism, and took responsibilities for making molecular docking data and the writing and revising of the paper. The paper is expected to be published on Chemistry and Biodiversity.
-        - Co-published two national invention patents related to the paper: "Application of Ericoside in the Preparation of Drugs for Inhibiting Cardiovascular Diseases" and "Application of Lentinus Mycelium Polysaccharides in the Preparation of Drugs for Inhibiting Amylase Activity". One patent certificate was obtained in January 2021 and the other one is expected to be obtained in June 2021.
+        - Completed the subject between natural active product and α-amylase. After a virtual screening of Dalbergia odorifera, eriodictyol has been determined as the best natural active component and molecular docking, molecular dynamics simulation and spectroscopy were used for further analysis. This paper has already under review and is expected to be published in International Journal of Biological Macromolecule. 
+        - Participated in the research on the mechanism of Costunolide-Induced MCF-7 Cells Apoptosis by finished molecular docking and paper’s revision. This paper has been published on Chemistry and Biodiversity.
+        - Co-published patents as “Application of Eriocitrin in the preparation of drugs for inhibiting cardiovascular diseases” and “Application of Lentinus edodes mycelium polysaccharide in preparation of drugs to inhibit amylase activity”.
   - title: Undergraduate Student Researcher
     company: Hongsheng Liu Group, School of Pharmaceutical Sciences, Liaoning University
     company_url: http://yxy.lnu.edu.cn/info/13928/76440.htm
@@ -76,7 +76,7 @@ experience:
     date_start: '2020-09-01'
     date_end: ''
     description: |2-
-        - Participate in the 2020 Innovation and Entrepreneurship Training Program for College Students. Applied machine learning to improve scoring function, and performed virtual screening of potential inhibitors of herg channel and applied molecular dynamics simulation to analyze the top five high-score molecules.
-        - Applied network similarity integration algorithm to study the interaction between lncRNA and miRNA. The paper is expected to be published on Journal of Mudanjiang Medical College.
-        - Designed a subject on the molecular dynamics simulation of molecular fingerprint. After calculating the candidate molecular data with molecular dynamics simulation and Rdkit, pioneered data integration of the best features in MDFP and 2D/3D fingerprints and applied machine learning to train the model. A SCI paper is expected to be published.
+        - Participate in the Innovation and Entrepreneurship Training Program for College Students and mainly found candidate compounds as herg inhibitors by using virtual screening and molecular dynamic simulation.
+        - By developing a new network similarity integration algorithm that predicts the interaction between lncRNA and miRNA, a paper has been published in Journal of Mudanjiang Medical College.
+        - Designed a subject on the molecular dynamics fingerprint (MDFP). After calculating the candidate molecular data with molecular dynamics simulation and Rdkit, the best features of MDFP and 2D/3D fingerprints have been determined by machine learning and a paper is expected to be published sooner.
 ---
