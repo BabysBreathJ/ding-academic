@@ -29,8 +29,8 @@ experience:
     date_start: '2021-12-24'
     date_end: '2021-03-07'
     description: |2-
-        - Investigated the application of machine learning and deep learning in kinases in the past ten years, and classified my findings according to kinase inhibitors, phosphorylation sites and protein ligand affinity. Studied molecular dynamics simulation, and applied it in bioinformatics. An English review paper is expected to be published.
-        - Summarized the protein three-dimensional structure database information, and applied Python to download all pdb files from the Linux server, and finally applied them to the generation and classification of related databases.       
+        - Investigated the application of machine learning and deep learning in kinases for the past ten years, and classified papers according to kinase inhibitors, phosphorylation sites, protein-ligand affinity, molecular dynamics simulation, and bioinformatics. An English review paper is expected to be published.
+        - Summarized the protein three-dimensional structure database information, and used Python and server (Linux) to download all pdb files automatically.       
   - title: Visting Student, Kechuang Project (Founded by CAS)
     company: Xu Lin Group, Key Laboratory of Nutrition, Metabolism and Food Safety, Shanghai Institute of Nutrition and Health, Chinese Academy of Sciences
     company_url: http://www.sinh.cas.cn/rcdw/qtyjzz/201803/t20180327_4986722.html
@@ -38,8 +38,8 @@ experience:
     date_start: '2020-08-01'
     date_end: '2021-08-01'
     description: |2-
-        - With the funding of the Innovation Practice Training Program for College Students held by Chinese Academy of Sciences, I completed a research on the plant-based dietary patterns and type 2 diabetes, and received a fund of CNY 40,000.
-        - Applied Pubmed, web of science and Cochrane to retrieve relevant literature in the past ten years. After manual screening and summary, I included the remaining documents into my references and conducted a statistical analysis with Stata and R. in the end, it is found that plant-based diet patterns could significantly improve blood sugar control. A SCI paper is expected to be published.
+        - By joining the kechuang project which was funded by Chinese Academy of Sciences with CNY 40,000, meta-analysis research between plant-based dietary patterns and type 2 diabetes has been completed.
+        - By using Pubmed, Web of Science, and Cochrane to retrieve relevant literature for the past ten years, several papers have been concluded which determined by title, summary, and content. Stata and R have been used to analyze the data further and a paper has been expected to be published.
   - title: Summer Intern (Founded by Westlake University)
     company: Ju-Sheng ZHENG Group, Key Laboratory of Growth Regulation and Translational Research of Zhejiang Province, Westlake University
     company_url: https://www.wenutrition.cn/
@@ -47,9 +47,9 @@ experience:
     date_start: '2020-07-01'
     date_end: '2020-08-01'
     description: |2-
-        - Participated in the subject on the intestinal microbial and nutritional distribution of the persons receiving treatment of drug addiction in cooperation with Zhejiang Drug Addiction Center, and took responsibilities for the design and compilation of psychological and dietary questionnaire.
-        - Assisted in the construction of a type 2 diabetes candidate molecule database, and used Python to automatically download the mol2 files of the target molecule in the CAS database.
-        - Participated in the subject on CMPF metabolic mechanism and new biomarker, and took responsibilities for mapping metabolites and making growth curves.
+        - Participated in the research between gut microflora and nutritional distribution of the persons who received treatment of drug addiction, and mainly took responsibilities for psychological and dietary questionnaire design.
+        - Assisted in the construction of a type 2 diabetes candidate inhibitors database, and mainly used Python to automatically download the mol2 files of target molecules.
+        - Participated in the research of CMPF metabolic mechanism, and took responsibilities for collating data of LC-MS.
   - title: Intern
     company: Pathogen Discovery and Big Data Center, Institut Pasteur of Shanghai, Chinese Academy of Sciences
     company_url: https://www.wenutrition.cn/
@@ -57,8 +57,8 @@ experience:
     date_start: '2020-04-01'
     date_end: '2020-07-01'
     description: |2-
-        - Co-authored a review of B cell immortalization, which is expected to be published in SCI review journals.
-        - Independently completed a meta-analysis on the drug resistance of AIDS populations in Henan Province. After collecting and collating relevant Chinese literature in the past ten years with R, I confirmed the association between drug resistance and the time of drug taking and performed a subgroup analysis. The paper is expected to be published in SCI journals of epidemiology and medicine.
+        - Finished a review of B cell immortalization as co-authors and expected to be published sooner.
+        - Independently completed a meta-analysis on the drug resistance of AIDS in Henan Province. After collecting and analyzing relevant Chinese papers in the past ten years with R, the relevance between drug resistance and the time of drug-taking has been confirmed and the paper is expected to be published.
   - title: Undergraduate Student Researcher
     company: Xiangyu Cao Group, School of Life Sciences, Liaoning University
     company_url: http://lifesci.lnu.edu.cn/info/13924/64271.htm
