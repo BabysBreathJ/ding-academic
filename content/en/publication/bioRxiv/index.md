@@ -1,16 +1,16 @@
 ---
-title: Eriodictyol as alpha-amylase inhibitors virtual screening, molecular docking, molecular dynamic simulation and spectroscopy
+title: Combining Multi-Dimensional Molecular Fingerprints to Predict hERG Cardiotoxicity of Compounds
 date: '2021-06-07'
 publishDate: '2020-10-12T13:36:27.550225Z'
 authors:
 - Weizhe Ding
-- Li Zhang
+- Li Zhang*
 - Yang Nan
 - Juanshu Wu
 - Xiangxin Xin
 - Chenyang Han
 - Siyuan Li
-- Xiangyu Cao*
+- Hongsheng Liu*
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
