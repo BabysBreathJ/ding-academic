@@ -52,7 +52,7 @@ experience:
         - Participated in the research of CMPF metabolic mechanism, and took responsibilities for collating data of LC-MS.
   - title: Intern
     company: Pathogen Discovery and Big Data Center, Institut Pasteur of Shanghai, Chinese Academy of Sciences
-    company_url: https://www.wenutrition.cn/
+    company_url: http://www.shanghaipasteur.cas.cn/kyzc2016/kyzc_zzjg2016/swxxxpt2016/zxjj4_2018/
     location: Shanghai, China
     date_start: '2020-04-01'
     date_end: '2020-07-01'

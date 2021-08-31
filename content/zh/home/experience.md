@@ -52,7 +52,7 @@ experience:
         - 参与CMPF代谢机制及新型生物标志物课题，负责完成代谢物的测绘和生长曲线的制作
   - title: 实习
     company: 病原发现与大数据中心，中国科学院上海巴斯德研究所
-    company_url: https://www.wenutrition.cn/
+    company_url: http://www.shanghaipasteur.cas.cn/kyzc2016/kyzc_zzjg2016/swxxxpt2016/zxjj4_2018/
     location: 中国，上海（远程工作）
     date_start: '2020-04-01'
     date_end: '2020-07-01'
