@@ -1,6 +1,6 @@
 ---
 title: Exploring the Potential Mechanism of Costunolide-induced MCF-7 Cells Apoptosis by Multi-spectroscopy, Molecular Docking and Cell Experiments
-date: '2021-04-14'
+date: '2021-05-18'
 publishDate: '2020-10-12T13:36:27.550225Z'
 authors:
 - Dan Liu
