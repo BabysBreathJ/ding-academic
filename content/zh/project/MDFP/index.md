@@ -1,5 +1,5 @@
 ---
-title: 分子指纹图谱 (Gromacs and Sklearn)
+title: 分子指纹图谱 (gromacs and caret)
 summary: 使用从分子动力学模拟轨迹中提取的特征建立分子指纹图谱
 
 # Optional external URL for project (replaces project detail page).

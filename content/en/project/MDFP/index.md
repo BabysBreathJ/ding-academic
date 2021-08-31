@@ -1,5 +1,5 @@
 ---
-title: MDFP (Gromacs and Sklearn)
+title: MDFP (gromacs and caret)
 summary: Using features extracted from molecular dynamic simulation to build molecular dynamic fingerprints.
 
 # Optional external URL for project (replaces project detail page).
