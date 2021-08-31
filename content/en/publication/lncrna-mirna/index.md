@@ -14,7 +14,7 @@ publication_types:
 abstract: 'In press'
 featured: false
 publication: '*Journal of Mudanjiang Medical University*'
-#url_pdf: https://doi.org/10.1021/acs.jctc.0c00514
-#doi: 10.1021/acs.jctc.0c00514
+url_pdf: https://doi.org/10.13799/j.cnki.mdjyxyxb.2021.04.017
+doi: 10.13799/j.cnki.mdjyxyxb.2021.04.017
 ---
 
