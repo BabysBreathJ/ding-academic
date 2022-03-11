@@ -1,5 +1,5 @@
 ---
-title: Combining Multi-Dimensional Molecular Fingerprints to Predict hERG Cardiotoxicity of Compounds
+title: Combining Multi-Dimensional Molecular Fingerprints to Predict the hERG Cardiotoxicity of Compounds
 date: '2022-03-07'
 publishDate: '2020-10-12T13:36:27.550225Z'
 authors:
