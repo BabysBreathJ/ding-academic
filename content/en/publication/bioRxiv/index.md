@@ -6,8 +6,8 @@ authors:
 - Weizhe Ding
 - Yang Nan
 - Juanshu Wu
-- Xiangxin Xin
 - Chenyang Han
+- Xiangxin Xin
 - Siyuan Li
 - Hongsheng Liu*
 - Li Zhang*
