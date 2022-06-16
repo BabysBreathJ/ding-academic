@@ -1,5 +1,5 @@
 ---
-title: Identification of the effective α-amylase inhibitors from Dalbergia odorifera: virtual screening, spectroscopy, molecular docking, and molecular dynamic simulation
+title: Identification of the effective α-amylase inhibitors from Dalbergia odorifera virtual screening, spectroscopy, molecular docking, and molecular dynamic simulation
 date: '2022-04-30'
 publishDate: '2020-10-12T13:36:27.550225Z'
 authors:
