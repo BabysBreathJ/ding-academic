@@ -6,7 +6,7 @@ title: Weizhe Ding
 superuser: true
 
 # Role/position/tagline
-role: Senior Undergraduate Student
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
