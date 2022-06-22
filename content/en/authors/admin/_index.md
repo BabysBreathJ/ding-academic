@@ -10,8 +10,8 @@ role: Senior Undergraduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Liaoning University
-  url: http://www.lnu.edu.cn/
+- name: Tsinghua University
+  url: https://www.tsinghua.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -25,12 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: Ph.D. in Biology
+    institution: Tsinghua University (Peking University-Tsinghua University-NIBS Joint Program, PTN)
+    year: 2022 ~ 2027
   - course: BSc in Biotechnology
     institution: Liaoning University
-    year: 2022 (estimated)
-  - course: High School
-    institution: The High School Affiliated To Liaoning Normal University
-    year: 2018
+    year: 2018 ~ 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

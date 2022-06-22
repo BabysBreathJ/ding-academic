@@ -6,12 +6,12 @@ title: 丁尉哲
 superuser: true
 
 # Role/position/tagline
-role: 三年级本科生
+role: 博士在读
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: 辽宁大学
-  url: http://www.lnu.edu.cn/
+- name: 清华大学
+  url: https://www.tsinghua.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -25,12 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: 博士在读（生物学，PTN项目）
+    institution: 清华大学
+    year: 2022 ~ 2027
   - course: 本科（生物技术）
     institution: 辽宁大学
     year: 2018 ~ 2022
-  - course: 中学
-    institution: 辽宁师范大学附属中学
-    year: 2012 ~ 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
